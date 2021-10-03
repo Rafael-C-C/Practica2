@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggdTg0COfbxzHPqyiTW7r9O8v4aHiN9Hdgu1jY5eS3YzR3krftbX0Ww//5WZruHLjESAiLkAEbaDfiLyv6T0Hw==",
+  "success": true,
+  "projectFilePath": "C:\\home\\Ejercicio2\\PalindromeApp\\PalindromeApp\\PalindromeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\live\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\live\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
